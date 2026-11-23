@@ -1,0 +1,91 @@
+#header {
+    font-size: large;
+    font-weight: bold;
+}
+#h2 {
+    background-color: rgb(9, 100, 165);
+
+}
+#out {
+    margin: 0 auto;
+    
+}
+#box {
+    background-color: rgb(9, 100, 165);
+    border:  2.5px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    width: 100px;
+    margin: 0 auto 20px;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+#Introduce {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 14px;
+    background-clip: content-box;
+    border: 2.5px solid black;
+    width: px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+#GithubRespository{
+    background-clip: content-box;
+    border: 2.5px solid black;
+    text-align: center;
+    width: 400px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+#AboutMe {
+    background-clip: content-box;
+    border: 2.5px solid black;
+    width: 200px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+#EduacationalBackground { 
+    background-clip: content-box;
+    border: 2.5px solid black;
+    width: 380px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+#FuturePlans { 
+    background-clip: content-box;
+    border: 2.5px solid black;
+    width: 450px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+#CoverLetter { 
+    background-clip: content-box;
+    border: 2.5px solid black;
+    width: 500px;
+    padding: 5px 15px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+}
+
+#Github {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+    text-decoration: none;
+}
+
+#Github:hover {
+    text-decoration: underline;
+}
